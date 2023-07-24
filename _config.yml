@@ -2,4 +2,16 @@ description: >
   Como acumular milhas, comprar e transferir milhas para emitir passagens muito mais baratas
   e viajar o mundo gastando menos.
   
-theme: minima
+remote_theme: jekyll/minima
+
+header_pages:
+  - acumulo.md
+  - compra-transfer.md
+  - emissao.md
+  - cartoes.md
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/laguiar" }
+    - { platform: twitter, user_url: "https://twitter.com/laguiar" }
