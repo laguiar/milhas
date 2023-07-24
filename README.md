@@ -1,9 +1,9 @@
 # Viajando Mais Barato com Milhas
 
-Esse conteúdo é direcionado aos milhões de **brasileiros** que moram fora, e geralmente fazem mais viagens de longa distância
+Esse conteúdo é direcionado aos milhões de **brasileiros que moram fora**, e geralmente fazem mais viagens de longa distância
 principalmente para ir ao Brasil ou familiares e amigos que vão visitá-los em outros países.
 
-Apesar do foco, as técnicas e práticas mencionadas aqui servem 100% para quem mora no Brasil também, precisando apenas de algumas
+Apesar do foco, as técnicas e práticas mencionadas aqui servem 100% para quem mora no Brasil, precisando apenas de algumas
 pequenas adaptações, mas **o conceito é universal**.
 
 É possível conseguir economizar muito com essas técnicas, muitas vezes conseguindo **emitir passagens gratuitamente** apenas com suas milhas ou
@@ -12,17 +12,19 @@ quando se utiliza as ferramentas e oportunidades certas.
 
 ## A Estratégia
 
+A estratégica descrita aqui é composta por apenas 3 grandes tópicos:
+
 1. **[Acúmulo de Milhas](acumulo.md)**
 2. **[Compra e Transferência Bonificada de Milhas](compra-transfer.md)**
 3. **[Emissão de Passagens](emissao.md)**
 
-Cada item da estratégia acima, é bem detalhado em suas páginas específicas, mas aqui vamos dar uma visual geral de como 
-colocar essa estratégia em prática e dicas gerais que podem te ajudar nessa jornada.
+Cada tópico é bem detalhado em suas páginas específicas, mas aqui vamos dar uma explicação geral de como 
+colocar essa estratégia em prática e dicas importantes para te ajudar nessa jornada.
 
 
 ## Como começar?
 
-Essa estratégia demanda tempo, e resultados mais significativos virão após de meses apenas, mas **é possível começar imediatamente**
+Essa estratégia demanda tempo, e resultados mais significativos virão após meses apenas, mas **é possível começar imediatamente**
 sem ter nenhuma milha acumulada, sem ter cartão de crédito ou estar em nenhum clube exclusivo de cia aérea.
 
 ### Utilizando as ferramentas certas
@@ -35,7 +37,7 @@ Adicionalmente ainda tem a Smiles que é um ótimo portal agregador de milhas pa
 
 1. **[Livelo](https://www.livelo.com.br/)** - Pertence ao grupo Bradesco. _(não é necessário ter conta no banco para criar sua conta na Livelo)_
 2. **[Esfera](https://www.esfera.com.br/)** - Pertence ao grupo Santander. _(não é necessário ter conta no banco para criar sua conta na Esfera)_
-3. Smiles - Pertence a Gol, mas é uma empresa independente com parceria com mais de 50 cia aéreas, excelente para emitir passagens de outras cias aéreas pela própria plataforma da Smiles.
+3. [Smiles](https://www.smiles.com.br) - Pertence a Gol, mas é uma empresa independente com parceria com mais de 50 cia aéreas, excelente para emitir passagens de outras cias aéreas pela própria plataforma da Smiles.
 
 
 Alguns pontos muito importantes antes de criar sua conta e comprar qualquer coisa:
