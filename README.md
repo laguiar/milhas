@@ -98,4 +98,3 @@ Por isso é tão importante saber como acumular milhas, e embora seja um process
 os benefícios são reais e você consegue mensurar isso facilmente quando tentar emitir suas passagens.
 
 Vejo todos os detalhes sobre como acumular milhos na sessão [Acúmulo de Milhas](acumulo.md).
-
