@@ -36,12 +36,12 @@ Os principais pontos são:
 ## Em qual cia aérea acumular milhas?
 
 Embora se encontre muito informação online falando para acumular milhas em uma única cia aérea, **NÃO** faça isso.
-É muito importante endenter as [alianças aéreas](cias-aereas.md), várias cias juntas compoem uma aliança aérea, as parcerias entre cias e as possibilidades de transferência de milhas antre elas.
+É muito importante entender as [alianças aéreas](cias-aereas.md), formadas por várias cias juntas, as parcerias e as possibilidades de transferência de milhas entre elas.
 
 Outro erro comum é querer focar apenas na principal cia aérea do seu país. 
 
-Por exemplo se você mora na Holanda 🇳🇱, a KLM é muito boa e tem rotas pro mundo inteiro, mas usando diversas ferramentas para acumular milhas, 
-provavelmente você consegue promoções bem melhores, as vezes em classe **Executiva**, pra voar com a Iberia saindo de Madri 🇪🇸, ou TAP saindo de Lisboa 🇵🇹, 
+Por exemplo, se você mora na Holanda 🇳🇱, a KLM é muito boa e tem rotas pro mundo inteiro, mas usando diversas ferramentas para acumular milhas, 
+provavelmente você consegue promoções bem melhores, às vezes em classe **Executiva**, pra voar com a Iberia saindo de Madri 🇪🇸, ou TAP saindo de Lisboa 🇵🇹, 
 mais barato que o mesmo trecho de classe econômica pela KLM.
 
 Estude e entenda bem as [cias aéreas](cias-aereas.md), suas alianças e parcerias, antes de focar tudo numa mesma empresa.
