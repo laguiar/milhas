@@ -10,6 +10,7 @@ pequenas adaptações, mas **o conceito é universal**.
 com economias que pode chegar a **90%**. Mas parar não criar super expectativas, tenha em mente que economizar perto de **50%** é muito comum
 quando se utiliza as ferramentas e oportunidades certas.
 
+
 ## A Estratégia
 
 A estratégica descrita aqui é composta por apenas 3 grandes tópicos:
@@ -27,7 +28,10 @@ colocar essa estratégia em prática e dicas importantes para te ajudar nessa jo
 Essa estratégia demanda tempo, e resultados mais significativos virão após meses apenas, mas **é possível começar imediatamente**
 sem ter nenhuma milha acumulada, sem ter cartão de crédito ou estar em nenhum clube exclusivo de cia aérea.
 
-### Utilizando as ferramentas certas
+É bom ter em mente que o processo todo demanda planejando e estudo, desconfie de qualquer solução milagrosa que encontrar por ai.
+
+
+## Utilizando as ferramentas certas
 
 Existem duas grandes plataformas brasileiras para compra e transferência de milhas que são excelentes, a Livelo e a Esfera, não tem nada similar desse porte
 na Europa ou nos Estados Unidos, e utilizar essas plataformas é uma grande vantagem que nós temos como brasileiros, porque comprar
@@ -63,35 +67,37 @@ Confira todos os detalhes sobre compra de milhas na sessão [Compra e Transferê
 <img alt="Valor em milhas da passagem na TAP" src="images/tap-milhas.png" width="586" height="338"/>
 
 
-Voo **TAP**: Guarulhos -> Lisboa
+Voo **TAP**: Guarulhos ✈️ Lisboa
 
 _(Verificado em 25 de Julho de 2023, para um voo saindo em 2 meses)_
 
 - Classe econômica: 923,14 EUR
 - Valor em milhas: 99.500 Milhas
 
-Os passos seriam:
+**Os passos seriam os seguintes:**
+
 1. Verifique o preço da passagem na cia aérea desejada e quantas milhas são necessárias para esse trecho.
-2. Usando as plataformas Livelo ou Esfera, compre o valor necessário de milhas pagando um máximo de R$35 pelo milheiro.
+2. Usando as plataformas Livelo ou Esfera, compre o valor necessário de milhas pagando um máximo de **R$35** pelo milheiro.
 3. Transfira as milhas para a plataforma da cia aérea.
 4. Emita as passagens usando o saldo de milhas disponível.
 
 No exemplo citado acima, o custo dessa passagem seria:
 
-- Classe Econômica pagando R$35 o milheiro: R$2.842,85 -> 535 EUR + 35,14 EUR de taxas.
+- Classe Econômica pagando R$35 o milheiro: **R$2.842,85 -> 535 EUR** + 35,14 EUR de taxas.
 
-Do preço original de 923,14 EUR para 570,14 EUR, economia de **38,2%**. 
+Do preço original de **923,14 EUR** para **570,14 EUR**, uma economia de **38,2%**. 
 
 Isso considerando o valor máximo sugerido para o milheiro. Essas plataformas oferecem muitas promoções quase todo mês,
 onde é realisticamente possível comprar milhas pagando menos de R$30 pelo milheiro, e ainda temos as transferências bonificadas
 que são detalhadas na sessão [Compra e Transferência Bonificada](compra-transfer.md) de milhas.
 
-**Importante**: é preciso lembrar que apenas os planos pagos conseguem comprar maiores quantidades de milhas com preços que valem a pena.
+> **Importante**: é preciso lembrar que apenas os planos pagos conseguem comprar maiores quantidades de milhas com preços que valem a pena.
 
 Eu sei que parece conversa de vendedor de plano pago dessas plataformas, mas é como elas fazem dinheiro também, e quando colocado
 na ponta do lápis, esse custo acaba compensando.
 
-### E se seu já tiver algumas milhas?
+
+## E se seu já tiver algumas milhas?
 
 O precedimento é o mesmo do exemplo acima, mas você terá que comprar um número menor de milhas para completar o total necessário, 
 deixando o valor total que você terá que desembolsar ainda menor.
@@ -100,3 +106,8 @@ Por isso é tão importante saber como acumular milhas, e embora seja um process
 os benefícios são reais e você consegue mensurar isso facilmente quando tentar emitir suas passagens.
 
 Vejo todos os detalhes sobre como acumular milhos na sessão [Acúmulo de Milhas](acumulo.md).
+
+> **Importante**: é imprescindível saber quanto vale as suas milhas, sem isso você não sabe o valor real que estará pagando por uma passagem emitida por milhas.
+
+
+Para sugestões, correções e qualquer tipo de conteúdo relevante que você queira ver aqui, entre em contato utilizando os links no rodapé da página.
