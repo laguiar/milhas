@@ -5,6 +5,7 @@ Você consegue montar sua estratégia de acúmulo de milhas de forma eficiente, 
 
 Mas vamos começar pelo básico de tudo.
 
+
 ## O que são milhas?
 
 Milhas são uma espécie de "pontos virtuais" ou até mesmo como "moedas virtuais", que as cias aéreas usam há décadas. 
@@ -16,6 +17,7 @@ Sabe aquela cartelinha de cafezinho que a cada 10, você ganha um grátis?
 
 O conceito básico é o mesmo das milhas. A grande diferença é as milhas serem negociadas pelas empresas e poderem ser
 transferidas entre empresas parceiras ou que pertente ao mesmo grupo, criando estímulos muito maiores.
+
 
 ## Por que as cias aéreas negociam milhas?
 
@@ -30,11 +32,26 @@ Os principais pontos são:
 > Importante: Preste muita atenção na validade das milhas, no geralmente elas podem valer entre 2 e 3 anos, 
 > mas especialmente milhas promocionais podem tem a validade bem mais curta.
 
+
+## Em qual cia aérea acumular milhas?
+
+Embora se encontre muito informação online falando para acumular milhas em uma única cia aérea, **NÃO** faça isso.
+É muito importante endenter as [alianças aéreas](cias-aereas.md), várias cias juntas compoem uma aliança aérea, as parcerias entre cias e as possibilidades de transferência de milhas antre elas.
+
+Outro erro comum é querer focar apenas na principal cia aérea do seu país. 
+
+Por exemplo se você mora na Holanda 🇳🇱, a KLM é muito boa e tem rotas pro mundo inteiro, mas usando diversas ferramentas para acumular milhas, 
+provavelmente você consegue promoções bem melhores, as vezes em classe **Executiva**, pra voar com a Iberia saindo de Madri 🇪🇸, ou TAP saindo de Lisboa 🇵🇹, 
+mais barato que o mesmo trecho de classe econômica pela KLM.
+
+Estude e entenda bem as [cias aéreas](cias-aereas.md), suas alianças e parcerias, antes de focar tudo numa mesma empresa.
+
+
 ## Como Acumular Milhas
 
 Aqui é onde cada um precisa estudar as suas opções locais e montar sua estratégia conforme as opções disponíveis.
 
-Um ponto importante em relação ao acúmulo, é saber também em qual programa de pontos é mais vantajoso acumular as milhas,
+Como mencionado acima, é importante saber em quais programas de pontos é mais vantajoso acumular as milhas,
 para isso leia em detalhes sobre as [alianças aéreas e parcerias](cias-aereas.md).
 
 As maneiras mais comuns para acúmulo de milhas são:
@@ -57,7 +74,11 @@ Vamos dar uma olhada em algumas dessas opções com mais detalhes.
 
 Alguns exemplos são voltados ao mercado europeu, envie qualquer exemplo em outras regiões na nossa sessão de [contato]()
 
+
 ### Reservando Hotel
+
+_(em breve)_
+
 
 ### Comprando Online
 
@@ -81,6 +102,7 @@ Alguns exemplos de plataformas onde é possível efetuar compras online com loja
 - Iberia Plus: Espanha 🇪🇸
 - TAP Miles & Go: Portugal 🇵🇹
 - [Livelo](https://www.livelo.com.br): Brasil 🇧🇷
+
 
 ### Programas de Pontos e Cashback
 
