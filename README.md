@@ -7,7 +7,7 @@ Apesar do foco, as técnicas e práticas mencionadas aqui servem 100% para quem 
 pequenas adaptações, mas **o conceito é universal**.
 
 É possível conseguir economizar muito com essas técnicas, muitas vezes conseguindo **emitir passagens gratuitamente** apenas com suas milhas ou
-com economias que pode chegar a **90%**. Mas parar não criar super expectativas, tenha em mente que economizar perto de **50%** é muito comum
+com economias que pode chegar a **90%**. Mas parar não criar superexpectativas, tenha em mente que economizar perto de **50%** é muito comum
 quando se utiliza as ferramentas e oportunidades certas.
 
 
@@ -19,7 +19,7 @@ A estratégica descrita aqui é composta por apenas 3 grandes tópicos:
 2. **[Compra e Transferência Bonificada de Milhas](compra-transfer.md)**
 3. **[Emissão de Passagens](emissao.md)**
 
-Cada tópico é bem detalhado em suas páginas específicas, mas aqui vamos dar uma explicação geral de como 
+Cada tópico é bem detalhado nas páginas específicas, mas aqui vamos dar uma explicação geral de como 
 colocar essa estratégia em prática e dicas importantes para te ajudar nessa jornada.
 
 
@@ -35,19 +35,19 @@ sem ter nenhuma milha acumulada, sem ter cartão de crédito ou estar em nenhum 
 
 Existem duas grandes plataformas brasileiras para compra e transferência de milhas que são excelentes, a Livelo e a Esfera, não tem nada similar desse porte
 na Europa ou nos Estados Unidos, e utilizar essas plataformas é uma grande vantagem que nós temos como brasileiros, porque comprar
-milhas de qualquer outra maneira é geralmente bem mais caro e não vale a pena.
+milhas de qualquer outra maneira é geralmente bem mais caro e você perderá dinheiro.
 
 Adicionalmente ainda tem a Smiles que é um ótimo portal agregador de milhas para se emitir passagens para mais de 50 cias aéreas do mundo todo.
 
-1. **[Livelo](https://www.livelo.com.br/)** - Pertence ao grupo Bradesco. _(não é necessário ter conta no banco para criar sua conta na Livelo)_
-2. **[Esfera](https://www.esfera.com.br/)** - Pertence ao grupo Santander. _(não é necessário ter conta no banco para criar sua conta na Esfera)_
+1. **[Livelo](https://www.livelo.com.br/)** - Pertence ao grupo Bradesco. _(não é necessário ter conta no banco para criar conta na Livelo)_
+2. **[Esfera](https://www.esfera.com.br/)** - Pertence ao grupo Santander. _(não é necessário ter conta no banco para criar conta na Esfera)_
 3. [Smiles](https://www.smiles.com.br) - Pertence a Gol, mas é uma empresa independente com parceria com mais de 50 cia aéreas, excelente para emitir passagens de outras cias aéreas pela própria plataforma da Smiles.
 
 
-Alguns pontos muito importantes antes de criar sua conta e comprar qualquer coisa:
+Alguns pontos muito importantes antes de criar a sua conta e comprar qualquer coisa:
 
-- Será necessário um número de celular brasileiro para validar seu cadastro via SMS, na Livelo e Esfera, não tem outra opção.
-- A Livelo também pede validação via SMS para linkar um smartphone via aplicativo, depois de linkado, o código de segurança é gerado dentro do App da Livelo.
+- Será necessário um número de celular brasileiro para validar o seu cadastro via SMS, na Livelo e Esfera, não tem outra opção.
+- A Livelo também pede validação via SMS para linkar um smartphone via aplicativo, depois de linkado, o código de segurança é gerado dentro do aplicativo da Livelo.
 - Embora as plataformas sejam gratuitas, apenas os planos pagos conseguem descontos realmente bons e podem comprar quantidades maiores de milhas.
 - O valor por mil milhas _(milheiros)_ deve ficar no máximo entre R$33 e R$35, **NÃO** compre milhas mais caras que isso a menos que a cotação para sua moeda estranheira tenha valorizado muito recentemente.
 
@@ -97,17 +97,17 @@ Eu sei que parece conversa de vendedor de plano pago dessas plataformas, mas é 
 na ponta do lápis, esse custo acaba compensando.
 
 
-## E se seu já tiver algumas milhas?
+## E se eu já tiver algumas milhas?
 
 O precedimento é o mesmo do exemplo acima, mas você terá que comprar um número menor de milhas para completar o total necessário, 
 deixando o valor total que você terá que desembolsar ainda menor.
 
 Por isso é tão importante saber como acumular milhas, e embora seja um processo lento que requer dedicação e planejamento,
-os benefícios são reais e você consegue mensurar isso facilmente quando tentar emitir suas passagens.
+os benefícios são reais e você consegue mensurar isso facilmente quando tentar emitir as suas passagens.
 
 Vejo todos os detalhes sobre como acumular milhos na sessão [Acúmulo de Milhas](acumulo.md).
 
-> **Importante**: é imprescindível saber quanto vale as suas milhas, sem isso você não sabe o valor real que estará pagando por uma passagem emitida por milhas.
+> **Importante**: é imprescindível saber quanto vale as suas milhas, sem isso você não sabe o valor real que pagará por uma passagem emitida por milhas.
 
 
 Para sugestões, correções e qualquer tipo de conteúdo relevante que você queira ver aqui, entre em contato utilizando os links no rodapé da página.
