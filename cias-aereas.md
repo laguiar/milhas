@@ -14,7 +14,7 @@ Exemplo, se você mora na Alemanha, você não precisa pensar somente na Lufthan
 você pode emitir uma passagem pela TAP, numa promoção muito melhor, ou ao ter uma transferência bonificada ótima para 
 transferir pontos Livelo para a KLM, por exemplo.
 
-Ainda seria necessário um voo curta distância dentro da Europa, que você pode fazer de low-cost e ainda gastar muito menos 
+Ainda seria necessário um voo curta distância dentro da Europa, que você pode fazer de _low-cost_ e ainda gastar muito menos 
 do que se comprasse uma passagem em dinheiro, da Lufthansa.
 
 
@@ -54,7 +54,7 @@ tabela fixa funciona apenas para emissão com cias parceiras**.
 A tabela fixa da Latam, mostra todos os valores, em milhas, para emissão de passagem de qualquer uma das regiões do mundo 
 para qualquer outra região. Esses valores não mudam, eles são fixos, não importante o quanto perto da data do voo você emita a passagem.
 
-Obviamente, a emissão é sujeita a disponibilidade de assentos ainda no voo desejado.
+Obviamente, a emissão é sujeita a disponibilidade de assentos no voo desejado.
 
 Exemplos:
 
@@ -62,6 +62,16 @@ Exemplos:
 - Passagem saindo dos EUA com destino África: 108.000 mil milhas na classe Executiva.
 
 Com isso, você pode se programar conforme a viagem desejada e ir acumulando milhas sabendo qual é o seu alvo final.
+
+Tem um detalhe importante que pode fazer muita diferença e passa despercebido por muita gente:
+
+<img alt="tabela fica latam" src="images/tabela-fixa-latam-am-sul.png"/>
+
+Alguns trechos são muito mais baratos saindo de outros países da América do Sul, do que saindo do Brasil, podendo chegar a 40% de diferença.
+
+Você poderia então emitir uma passagem saindo da Argentina 🇦🇷, por exemplo, ir até lá com uma cia _low-cost_, ou até de ônibus, e economizar muito mais milhas.
+
+Obviamente isso depende de onde você esta no Brasil e conseguir passagens baratas para chegar até o país vizinho.
 
 **Dicas importantes:**
 
@@ -86,18 +96,70 @@ Depois é só escolher **"Star Alliance"** ou **"Outras companhias"**, e você c
 
 # Grupos Hoteleiros
 
+Assim como as cias aéreas, os grupos hoteleiros também possuem parcerias entre si, e você pode transferir os pontos de uma rede hoteleira para 
+emitir passagens em uma cia aérea, ou usar os pontos de uma cia aérea para emitir diárias ou upgrades em um hotel.
 
-## Accor Hotels - _ALL - Accor Live Limitless_
+Saber quais hotéis pertencem a qual grupo, pode te ajudar a planejar melhor suas viagens e acumular pontos que podem ser utilizados depois para emissão de passagens aéreas.
 
-
-## Marriott - _Marriott Bonvoy_
-
-
-## IHG - _IHG Rewards Club_
+Abaixo estão listados alguns dos principais grupos hoteleiros e suas respectivas redes de hotéis.
 
 
-## Hilton - _Hilton Honors_
+## [Accor Hotels - _ALL - Accor Live Limitless_](https://all.accor.com/)
+
+<img alt="Accor Hotels" src="images/accor-hotels.png"/>
+
+A Accor Hotels é uma das maiores redes de hotéis do mundo, e possui parcerias com diversas cias aéreas, como a LATAM, TAP, Iberia, Emirates, entre outras.
+
+O grupo possui diversas redes de hotéis, como: Ibis, Novotel, Mercure, Sofitel, Pullman, entre outras.
+
+A lista completa pode ser vista na [página de marcas da Accor](https://all.accor.com/brands/index.en.shtml).
 
 
-## Radisson - _Radisson Rewards_
+<img alt="Accor Hotels" src="images/accor-klm.png"/>
 
+Atualmente, existe uma parceria bem interessante com a AirFrance / KLM, onde você pode acumular pontos no programa de fidelidade da Accor (ALL) e 
+milhas FlyingBlue da AirFrance / KLM, **simultaneamente**, pontuação dupla, e se você pagar com o cartão de crédito 
+que também pontue em qualquer programa, você ganha **PONTUAÇÃO TRIPLA**.
+
+
+Além disso, é possível transferir seus pontos ALL para muitas outras ciás aéreas, como pode ser verificado 
+na [página dos parceiros da Accor](https://all.accor.com/a/pt/portugal/loyalty-program/partners/airlines.html).
+
+
+## [Marriott - _Marriott Bonvoy_](https://www.marriott.com/)
+
+<img alt="Marriott" src="images/marriott-hotels.png"/>
+
+A Marriott é outra gigante do setor hoteleiro, e possui parcerias com mais de 30 cias aéreas.
+
+O grupo Marriott possui diversas redes de hotéis, em seguimentos mais luxuosos, como o Ritz-Carlton, e redes mais simples, como o Courtyard.
+
+Você pode conferir todas as redes de hotéis da Marriott na [página de marcas da Marriott](https://www.marriott.com/marriott-brands.mi).
+
+Além disso, é possível transferir seus pontos Marriott para muitas outras ciás aéreas, como pode ser verificado
+na [página dos parceiros da Marriott](https://www.marriott.com/loyalty/redeem/travel/points-to-miles.mi).
+
+A conversão de pontos Marriott para milhas aéreas é de 3 pontos Marriott para 1 milha aérea para quase todas as cias aéreas.
+
+
+## [IHG - _IHG Rewards Club_](https://www.ihg.com/)
+
+<img alt="IHG" src="images/ihg-hotels.png"/>
+
+A IHG é um dos maiores grupos hoteleiros do mundo, e possui parcerias com diversas cias aéreas, como a LATAM, TAP, Iberia, Emirates, entre outras.
+
+O grupo possui diversas redes de hotéis, como: Holiday Inn, InterContinental, Crowne Plaza, entre outras.
+
+A lista completa pode ser vista na [página de marcas da IHG](https://www.ihg.com/content/us/en/about/brands).
+
+
+<img alt="Radisson" src="images/radisson-hotels.png"/>
+
+Ainda tem outras grandes redes hoteleiras como a [Radisson](https://www.radissonhotels.com/en-us/), 
+[Hilton](https://www.hilton.com/en/), [Hyatt](https://www.hyatt.com/), entre outras. 
+Todos possuem parcerias com muitas cias aéreas, programas próprios de fidelidade, e até cartões de crédito próprios.
+
+Estude quais das redes pode ser mais interessante para você, quais benefícios podem valer mais a pena para o seu caso, 
+se cadastre e comece a acumular pontos para suas próximas viagens.
+
+✈️ 🏨
