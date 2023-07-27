@@ -1,9 +1,11 @@
-title: ""
+title: "Viajando Mais com Milhas"
 description: >
   Como acumular milhas, comprar e transferir milhas para emitir passagens muito mais baratas
   e viajar o mundo gastando menos.
   
 remote_theme: jekyll/minima
+show_downloads: false
+#google_analytics:
 
 header_pages:
   - acumulo.md

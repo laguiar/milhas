@@ -22,20 +22,69 @@ do que se comprasse uma passagem em dinheiro, da Lufthansa.
 
 <img alt="Star Alliance members" src="images/star-alliance-members.png"/>
 
+A Star Alliance é a maior aliança aérea do mundo, e conta com a Lufthansa como principal membro. Você pode acumular milhas 
+voando por qualquer uma das cias da aliança e usar (ou transferir) essas milhas em qualquer uma das cias da aliança. 
+Ou seja, você pode voar pela Lufthansa, acumular milhas no programa Miles & More, e transferir essas milhas para a TAP, 
+e emitir uma passagem pela TAP usando as milhas acumuladas na Lufthansa.
+
+A Star Alliance é atualmente composta por 26 cias aéreas:
+
+> Adria Airways, Aegean Airlines, Air Canada, Air China, Air India, Air New Zealand, ANA, Asiana Airlines, Austrian, Avianca, 
+> Avianca Brasil, Brussels Airlines, Copa Airlines, Croatia Airlines, EGYPTAIR, Ethiopian Airlines, EVA Air, LOT Polish Airlines, 
+> Lufthansa, Scandinavian Airlines, Shenzhen Airlines, Singapore Airlines, South African Airways, SWISS, TAP Air Portugal, THAI, Turkish Airlines, United.
+
+Confira todas as cias aéreas da Star Alliance [aqui](https://www.staralliance.com/en/member-airlines).
+
+Você pode se cadastrar no programa Miles & More [aqui](https://www.miles-and-more.com/row/en/join.html).
+
 
 ## [SkyTeam](https://www.skyteam.com) - _Flying Blue_
 
 <img alt="Sky Team members" src="images/sky-team-members.png"/>
+
+A SkyTeam é a segunda maior aliança aérea do mundo, e conta com a Air France como principal membro. Você pode acumular milhas 
+voando por qualquer uma das cias da aliança e usar (ou transferir) essas milhas em qualquer uma das cias da aliança. 
+Ou seja, você pode voar pela Air France, acumular milhas no programa Flying Blue, e transferir essas milhas para a KLM, 
+e emitir uma passagem pela KLM usando as milhas acumuladas na Air France.
+
+A SkyTeam é atualmente composta por 19 cias aéreas:
+
+> Aeroflot, Aerolíneas Argentinas, Aeroméxico, Air Europa, Air France, Alitalia, China Airlines, China Eastern, Czech Airlines, 
+> Delta Air Lines, Garuda Indonesia, Kenya Airways, KLM, Korean Air, Middle East Airlines, Saudia, TAROM, Vietnam Airlines, XiamenAir.
+
+Confira todas as cias aéreas da SkyTeam [aqui](https://www.skyteam.com/en/about/member-airlines/).
+
+Você pode se cadastrar no programa Flying Blue [aqui](https://flyingblue.com/).
 
 
 ## [OneWorld Alliance](https://www.oneworld.com) - _British Airways_
 
 <img alt="Tela de compra de milhas da FlyingBlue" src="images/one-world-members.png"/>
 
+A OneWorld Alliance é a terceira maior aliança aérea do mundo, e conta com a British Airways como principal membro. Você pode acumular milhas 
+voando por qualquer uma das cias da aliança e usar (ou transferir) essas milhas em qualquer uma das cias da aliança. 
+Ou seja, você pode voar pela British Airways, acumular milhas no programa British Airways Executive Club, e transferir essas milhas 
+para a Iberia, e emitir uma passagem pela Iberia usando as milhas acumuladas na British Airways.
+
+A OneWorld é atualmente composta por 13 cias aéreas:
+
+> American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, Japan Airlines, Malaysia Airlines, Qantas, Qatar Airways, Royal Jordanian, SriLankan Airlines.
+
+Confira todas as cias aéreas da OneWorld Alliance [aqui](https://www.oneworld.com/member-airlines/overview).
+
+Você pode se cadastrar no programa British Airways Executive Club [aqui](https://www.britishairways.com/en-gb/executive-club).
+
 
 ## [IAG (International Airlines Group)](https://www.iairgroup.com/) - _Avios_
 
 <img alt="IAG members" src="images/iag-members.png"/>
+
+O International Airlines Group é um grupo de cias aéreas que inclui a British Airways, Iberia, Aer Lingus, Vueling e Level, 
+e conta com o programa de milhas **Avios**. 
+
+Confira todas as cias aéreas do IAG [aqui](https://www.iairgroup.com/en/our-brands).
+
+Você pode se cadastrar no programa Avios [aqui](https://www.avios.com/gb/en).
 
 
 ## Entendendo o que são as Tabelas Fixas 
