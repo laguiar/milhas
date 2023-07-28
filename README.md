@@ -110,4 +110,25 @@ Vejo todos os detalhes sobre como acumular milhos na sessão [Acúmulo de Milhas
 > **Importante**: é imprescindível saber quanto vale as suas milhas, sem isso você não sabe o valor real que pagará por uma passagem emitida por milhas.
 
 
-Para sugestões, correções e qualquer tipo de conteúdo relevante que você queira ver aqui, entre em contato utilizando os links no rodapé da página.
+## Tópicos Complementares
+
+Embora a estratégia seja composto por _apenas_ 3 tópicos principais, cada um desses tópicos extende para outros tópicos complementares 
+que são muito importantes para que você possa adiquirirar uma base de conhecimento sólida sobre tudo o que gira em torno de milhas, 
+técnicas de acúmulo, cias aéreas, etc.
+
+Confira também os seguintes tópicos:
+
+- [Alianças Aéreas e Grupos Hoteleiros](cias-arereas.md)
+- [Cartões de Crédito e Bonificações](cartoes.md)
+
+Lembrando mais uma vez, que embora o conceito seja universal, parte do conteúdo aqui é direcionado à quem mora fora do Brasil, e em alguns casos, 
+mais ainda focado em conteúdo europeu ou para a Alemanha.
+
+Se você conhece alguns exemplos e tem alguns sugestões para o país onde você mora, correções e qualquer tipo de conteúdo relevante que pode ser adicionado aqui, 
+por favor entre em contato utilizando os links no rodapé da página.
+
+Se você mora nos EUA e quer enviar alguns dados locais para ser adicionado aqui, por favor entre em contato. 🙏
+
+> **Importante**: todo conteúdo divulgado aqui nesse site foi é de conhecimento público ou foi extraído de fontes abertas, como blogs, vídeos, lives no YouTube e Instagram. Se você acha que qualquer conteúdo aqui é privado sobre proteção intelectual, entre em contato solicitando a remoção.
+
+**Boas Viagens!** ✈️
