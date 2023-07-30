@@ -5,7 +5,7 @@ description: >
   
 remote_theme: jekyll/minima
 show_downloads: false
-#google_analytics:
+google_analytics: G-PG5Q06R825
 
 header_pages:
   - acumulo.md
