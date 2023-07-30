@@ -118,6 +118,6 @@ Dois exemplos de plataformas que operam em alguns países europeus:
 - [Payback](https://www.payback.de/anmelden/freunde-werben?mgm-ref=ca209dca-b488-4327-9ee2-35dbd3093382&excid=mgm&incid=mgm): 🇩🇪🇦🇹🇮🇹🇱🇺 - Gera pontos Payback que podem ser convertidos diretamente para milhas Miles & More.  
 - [TopCashback](https://www.topcashback.de/ref/laguiar): 🇬🇧🇩🇪🇫🇷🇦🇹 - Gera cashback que podem ser transferidos como pontos **Avios** pro Executive Club da British Airways, e de lá serem transferidos para outras cias aéreas do grupo IAG como Iberia, Air Lingus, ou para cias parceiras como a Qatar Airways.
 
-> **PayBack**: O Payback oferece transferência automática de pontos para o programa Miles & More, **NÃO** ative essa opção, 
-> pois o Payback também costuma fazer promoções de [transferências bonificas](compra-transfer.md) para o Miles & More, sempre um pouco depois 
-> que as transferências automáticas ocorrem.
+> **Payback**: O Payback oferece transferência automática de pontos para o programa Miles & More, **NÃO** ative essa opção, 
+> pois o Payback também costuma fazer promoções de [transferências bonificas](compra-transfer.md) para o Miles & More, com 25% de bônus, 
+> sempre algumas semanas depois que as transferências automáticas ocorrem.
