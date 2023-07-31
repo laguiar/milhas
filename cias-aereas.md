@@ -87,7 +87,7 @@ Confira todas as cias aéreas do IAG [aqui](https://www.iairgroup.com/en/our-bra
 Você pode se cadastrar no programa Avios [aqui](https://www.avios.com/gb/en).
 
 
-## Entendendo o que são as Tabelas Fixas 
+## Entendendo o que são as Tabelas Fixas
 
 As cias aéreas costumam ter uma tabela de valores para emissão de passagens por outras cias aéreas, sejam da mesma aliança 
 ou cias parceiras de outras alianças. Essa tabela é chamada de **Tabela Fixa**.
@@ -211,4 +211,4 @@ Todos possuem parcerias com muitas cias aéreas, programas próprios de fidelida
 Estude quais das redes pode ser mais interessante para você, quais benefícios podem valer mais a pena para o seu caso, 
 se cadastre e comece a acumular pontos para suas próximas viagens.
 
-✈️ 🏨
+**Boas Viagens!** ✈️ 🏨

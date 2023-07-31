@@ -1,0 +1,8 @@
+// Width of the content area
+$content-width: 900px !default;
+
+$on-palm: 650px !default;
+$on-laptop: $content-width !default;
+
+$on-medium: $on-palm !default;
+$on-large: $on-laptop !default;

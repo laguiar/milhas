@@ -8,16 +8,17 @@ emitir passagens aéreas para você e/ou para outras pessoas.
 O processo de emissão de passagens aéreas utilizando milhas pode ser feito via os programas de fidelidade como a Miles & More, plataformas de milhas como a Smiles, 
 ou através dos sites das companhias aéreas.
 
-Informações importantes para saber antes de emitir passagens aéreas:
+Informações e dicas importantes para saber antes de emitir suas passagens aéreas:
 
 - Você pode emitir passagens aéreas para você ou para outras pessoas, utilizando a sua conta.
 - **NÃO** é possível transferir milhas de uma conta para outra num programa de fidelidade. Uma vez que as milhas foram transferidas, por exemplo, da Livelo para a Miles & More, não é possível transferir as milhas para outra conta Miles & More.
 - É possível emitir passagens para outras cias da mesma aliança aérea. Por exemplo, você pode emitir passagens da Lufthansa para a Swiss.
-- Cias aéreas possuem parceiros bilaterais que não fazem parte da mesma aliança aérea. Por exemplo, a Lufthansa possui parceria com a LATAM, e uma cia pode emitir passagem pra outra.
+- Cias aéreas possuem parceiros bilaterais que não fazem parte da mesma aliança aérea. Por exemplo, a Lufthansa possui parceria com a LATAM, e uma cia pode emitir passagem para outra.
 - Taxas aero-portuárias são sempre cobradas em dinheiro, e não podem ser pagas com milhas, por isso elas aparecem separadas no momento da emissão da passagem.
-- Voos saindo da Alemanha 🇩🇪 possuem taxas de embarque mais caras do que voos saindo de outros países europeus.
+- Voos da Lufthansa saindo da Alemanha 🇩🇪 possuem taxas de embarque mais caras do que voos saindo de outros países, principalmente quando comparando com as taxas no Brasil.
 - **Iberia** costuma ter a classe executiva mais barata saindo da Europa.
-- Fazer upgrade de classe com milhas pode sair bem mais barato, é preciso sempre verificar a disponibilidade de upgrade. 
+- Fazer upgrade de classe com milhas pode sair bem mais barato, é preciso sempre verificar a disponibilidade de upgrade. A TAP costuma ter upgrades bem baratos, melhores do que comprar executiva direto, mas é preciso verificar a disponibilidade.
+- Companhias que usam [tabela fixa de milhas](cias-aereas.md#entendendo-o-que-são-as-tabelas-fixas), costumam ter bem menos promoções de emissão de passagens ao lago do ano, porque o uso da tabela fica já é bem vantajoso.
 
 Algumas informações comuns sobre passagens emitidas com milhas:
 

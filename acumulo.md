@@ -103,6 +103,9 @@ Alguns exemplos de plataformas onde é possível efetuar compras online com loja
 - TAP Miles & Go: Portugal 🇵🇹
 - [Livelo](https://www.livelo.com.br): Brasil 🇧🇷
 
+Lembrando que quase todas cias aéreas, os programas de fidelidade, tem parcerias com lojas online ou suas próprias lojas, 
+e que você pode usar os links bonificados para gerar pontos/milhas.
+
 
 ### Programas de Pontos e Cashback
 
@@ -121,3 +124,5 @@ Dois exemplos de plataformas que operam em alguns países europeus:
 > **Payback**: O Payback oferece transferência automática de pontos para o programa Miles & More, **NÃO** ative essa opção, 
 > pois o Payback também costuma fazer promoções de [transferências bonificas](compra-transfer.md) para o Miles & More, com 25% de bônus, 
 > sempre algumas semanas depois que as transferências automáticas ocorrem.
+
+**Boas Viagens!** ✈️

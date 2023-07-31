@@ -5,10 +5,19 @@
 A compra de milhas é um dos principais pilares da nossa [Estratégia](README.md), e é a partir dela que conseguimos
 fazer com que o valor final da passagem fique abaixo do valor que seria pago em dinheiro.
 
-A compra de milhas é feita por plataformas como a Livelo, Esfera ou Smiles, e a transferência para a cia aérea
+A compra de milhas é feita por plataformas como a [Livelo](), [Esfera]() ou [Smiles](), e a transferência para a cia aérea
 é feita através do site da própria plataforma ou no caso na Smiles, que é possível emitir passagem pela plataforma deles.
 
-> **Importante**: é preciso lembrar que apenas os planos pagos conseguem comprar maiores quantidades de milhas com preços promocionais que valem a pena.
+Pontos importantes para criar uma conta nesses serviços:
+
+- **CPF**: é preciso ter um CPF válido _(ainda não cadastrado na plataforma)_ para criar uma conta.
+- **Telefone BRASILEIRO**: é preciso ter um número de celular brasileiro para criar uma conta.
+- - SMS de confirmação do cadastro: é preciso ter acesso ao celular para receber um SMS de confirmação.
+- - SMS para vincular dispositivo: para vincular sua conta no **aplicativo** da Livelo, outro SMS é enviado. Após o vínculo ser feito, não é mais necessário o uso do SMS pois os códigos de segurança são gerados dentro do aplicativo.
+
+Esses são os principais pontos que podem causar problemas na hora de criar uma conta, e que também impedem que pessoas de outros países consigam criar uma conta.
+
+> **Importante**: é preciso lembrar que somente os planos pagos conseguem comprar maiores quantidades de milhas com preços promocionais que valem a pena.
 
 
 ## Entendendo valor teto para compra de milhas
@@ -102,3 +111,5 @@ valor final do milheiro ficar bem abaixo do valor teto.
 De toda forma, essa é uma ferramente poderosa para conseguir multiplicar suas milhas.
 
 > Embora as promoções de transferências sejam anunciadas algumas vezes por email, é importante verificar as plataformas frequentemente para ver se há alguma promoção ativa. 
+
+**Boas Viagens!** ✈️
