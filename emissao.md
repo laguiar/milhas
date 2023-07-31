@@ -19,6 +19,7 @@ Informações e dicas importantes para saber antes de emitir suas passagens aér
 - **Iberia** costuma ter a classe executiva mais barata saindo da Europa.
 - Fazer upgrade de classe com milhas pode sair bem mais barato, é preciso sempre verificar a disponibilidade de upgrade. A TAP costuma ter upgrades bem baratos, melhores do que comprar executiva direto, mas é preciso verificar a disponibilidade.
 - Companhias que usam [tabela fixa de milhas](cias-aereas.md#entendendo-o-que-são-as-tabelas-fixas), costumam ter bem menos promoções de emissão de passagens ao lago do ano, porque o uso da tabela fica já é bem vantajoso.
+- Geralmente, é mais vantajoso emitir passagens de classe executiva do que econômica utilizando milhas, o valor da milha é quase sempre maior na emissão de executiva. Obviamente, cada caso precisa ser calculado com atenção.
 
 Algumas informações comuns sobre passagens emitidas com milhas:
 

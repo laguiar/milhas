@@ -34,14 +34,14 @@ Obviamente essas opções dependem muito do seu mercado local, em quais são as 
 
 ## Como acumular pontos/milhas no cartão de crédito?
 
-Parece simples, mas vão aqui algumas dicas para maximizar o uso do seu cartão e acumular ainda mais milhas.
+Parece simples, mas aqui vão algumas dicas adicionais para maximizar o uso do seu cartão e acumular ainda mais milhas.
 
 - Tente acumular o máximo possível dos seus gastos no seu cartão.
 - Cadastre todas as contas online para utilizar seu cartão, ou uso algo como PayPal para centralizar todos os gastos online e adicione seu cartão como meio principal de pagamento dentro do PayPal.
 - PayPal é uma das poucas plataformas de pagamento que aceita cartão American Express.
 - Se você tem um cartão Amex onde a aceitação é baixa, tenha um segundo cartão, Visa ou Mastercard, que também gere milhas/pontos.
 - Tente pesquisar o histórico de promoções para Bônus de Boas-Vindas _(Welcome Bonus)_ do seu cartão, em alguns casos vale a penas esperar algumas semanas por uma nova promoção.
-- Indique amigos e familiares que também possam se beneficiar do mesmo cartão que o seu, para se cadastrarem usando seu link de referência, assim você quando os pontos de indicação.
+- Indique amigos e familiares que também possam se beneficiar do mesmo cartão que o seu, para se cadastrarem usando seu link de referência, assim você ganha os pontos de indicação.
 - Pague suas contas do dia a dia usando o cartão de crédito.
 
 
@@ -77,6 +77,7 @@ Outros cartões podem limitar esse número, sempre verifique as regras do seu ca
 ### Ferramentas para pagar contas com seu cartão e maximizar os pontos
 
 Em muito países, não é comum pagar contas com cartão de crédito, apenas debito em conta bancária ou transferência bancária.
+
 Uma alternativa é tentar usar o cartão para _"depositar"_ o valor que se precisa para pagar uma conta, e assim acumular mais pontos.
 
 > Importante: jamais pague uma conta como descrito aqui, se você já não tiver o dinheiro separado em sua conta bancária, não faça dívidas no cartão de crédito,
@@ -99,10 +100,11 @@ Uma alternativa é tentar usar o cartão para _"depositar"_ o valor que se preci
 
 <img alt="Tabela de notas dos cartões de crédito" src="images/credit-card-ratings.png"/>
 
-Na Alemanha a utilização de cartões de crédito não é muito comum, embora se tenha bastante opções, raramente se tem muitos benefícios.
+A Alemanha é conhecida mundialmente por ser um dos raros países desenvolvidos que ainda utiliza dinheiro em espécie para a maioria esmagadora dos pagamentos diários.
+Como você deve imaginar, a utilização de cartões de crédito não é muito comum, embora se tenha bastante opções, mas raramente se tem muitos benefícios como em outros países.
 
-Depois de alguns messes pesquisando algumas opções, a tabela acima foi criada como uma referência mais completa, baseada 
-totalmente nos meus próprios critérios voltados a viagem.
+Depois várias semanas pesquisando esse assunto, a tabela acima foi criada como uma referência visual mais completa, baseada 
+totalmente nos meus próprios critérios de notas, voltados a viagem.
 
 Items importantes nos meus critérios de avaliação:
 
@@ -117,7 +119,7 @@ Alguns pontos importantes em relação aos cartões **[Amex](https://americanexp
 - A aceitação na Alemanha é bem baixa, embora um pouco melhor em outros países europeus, mas ainda assim não chega nem perto de Visa e Mastercard.
 - Não é viável ter apenas um cartão se ele for Amex, é mandatório ter um segundo cartão.
 - O cartão **Platinum** é o melhor cartão sem sombras de dúvida, e é possível pegar algumas promoções com Bonus de Boas-Vindas que praticamente pagam um viagem intercontinental ida e volta.
-- A anuidade assusta, mas existem muitos benefícios e bônus "em dinheiro", que reduzem (virtualmente) o valor da anuidade se você realmente utilizar esses bônus.
+- A anuidade assusta, mas existem muitos benefícios e bônus "em dinheiro", que reduzem (virtualmente) o valor da anuidade se você **realmente** utilizar todos os bônus.
 - Eu recomendo muito todo mundo ter pelo menos o cartão [Amex Payback](https://americanexpress.com/de-de/referral/lUIZGzN8h?XLINK=MYCP) que é gratuito. (por favor use o meu [link de referência](https://americanexpress.com/de-de/referral/lUIZGzN8h?XLINK=MYCP))
 
 > Se você estiver pensando em assinar qualquer outro cartão Amex que não seja o Payback, **NÃO** assine o Payback antes!
@@ -128,7 +130,7 @@ O cartão [Eurowings Premium](https://www.barclays.de/kreditkarten/eurowings-pre
 
 Ele gera milhas Miles & More, tem uma cobertura de seguros excelente, melhor que do Amex Platinum, não tem taxas extras para moedas estrangeiras, com alguns poucos benefícios extras caso você utilize a Eurowings alguma vez na vida.
 
-Caso o pacote de seguros um pouco menos completo já lhe sirva, o **Eurowings Classic** é a melhor opção para gerar milhas Miles & More e ainda ter alguns benefícios extras.
+Caso um pacote de seguros um pouco menos completo já lhe sirva, o **Eurowings Classic** é a melhor opção para gerar milhas **Miles & More** e ainda tem alguns pequenos benefícios extras.
 
 Hoje, meu setup pessoal é composto pelos cartões [Eurowings Premium](https://www.barclays.de/kreditkarten/eurowings-premium/) e
 [Amex Payback](https://americanexpress.com/de-de/referral/lUIZGzN8h?XLINK=MYCP), que será futuramente atualizado para outro modelo se alguma promoção muito grande aparecer.

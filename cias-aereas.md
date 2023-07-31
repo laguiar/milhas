@@ -143,14 +143,14 @@ Depois é só escolher **"Star Alliance"** ou **"Outras companhias"**, e você c
 <img alt="TAP escolha grupo" src="images/tap-seleciona-grupo.png"/>
 
 
-# Grupos Hoteleiros
+# Redes Hoteleiras
 
-Assim como as cias aéreas, os grupos hoteleiros também possuem parcerias entre si, e você pode transferir os pontos de uma rede hoteleira para 
-emitir passagens em uma cia aérea, ou usar os pontos de uma cia aérea para emitir diárias ou upgrades em um hotel.
+Assim como acontece com as cias aéreas, as redes hoteleiras também possuem parcerias bilaterais com muitas cias aéreas, 
+e você pode transferir os pontos de uma rede hoteleira para emitir passagens em uma cia aérea, ou usar os pontos de uma cia aérea para emitir diárias ou upgrades em um hotel.
 
 Saber quais hotéis pertencem a qual grupo, pode te ajudar a planejar melhor suas viagens e acumular pontos que podem ser utilizados depois para emissão de passagens aéreas.
 
-Abaixo estão listados alguns dos principais grupos hoteleiros e suas respectivas redes de hotéis.
+Abaixo estão listados algumas das principais redes hoteleiras do mundo e suas diversas sub-marcas de hotéis.
 
 
 ## [Accor Hotels - _ALL - Accor Live Limitless_](https://all.accor.com/)

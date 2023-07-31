@@ -16,7 +16,7 @@ A idéia mais básica por trás das milhas, é criar um vínculo entre o cliente
 Sabe aquela cartelinha de cafezinho que a cada 10, você ganha um grátis?
 
 O conceito básico é o mesmo das milhas. A grande diferença é as milhas serem negociadas pelas empresas e poderem ser
-transferidas entre empresas parceiras ou que pertente ao mesmo grupo, criando estímulos muito maiores.
+transferidas entre empresas parceiras ou que pertente ao mesmo grupo, criando estímulos muito maiores e um mercado gigantesco em volta disso.
 
 
 ## Por que as cias aéreas negociam milhas?
@@ -75,9 +75,15 @@ Vamos dar uma olhada em algumas dessas opções com mais detalhes.
 Alguns exemplos são voltados ao mercado europeu, envie qualquer exemplo em outras regiões na nossa sessão de [contato]()
 
 
-### [Reservando Hotel](cias-aereas.md)
+### [Reservando Hotel](cias-aereas.md#redes-hoteleiras)
 
-_(em breve)_
+As grandes redes hoteleiras geralmente têm parcerias com as cias aéreas, e você pode acumular milhas reservando hotéis através dos sites das cias aéreas.
+
+Elas também possuem programas de fidelidade próprios, onde você pode acumular pontos e converter para milhas e também podem ser transferidas com bônus para outras cias aéreas.
+
+Não se esqueça de sempre usar o mesmo nome/sobrenome em todas as contas, para poder transferir os pontos entre elas.
+
+Para mais detalhes, veja a sessão sobre [redes hoteleiras](cias-aereas.md#redes-hoteleiras).
 
 
 ### Comprando Online
