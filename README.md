@@ -1,9 +1,11 @@
 # Viajando Mais Barato com Milhas
 
+<img alt="banner top" src="images/banner-top.jpg"/>
+
 Esse conteúdo é direcionado aos milhões de **brasileiros que moram fora**, e geralmente fazem mais viagens de longa distância
 principalmente para ir ao Brasil ou familiares e amigos que vão visitá-los em outros países.
 
-Apesar do foco, as técnicas e práticas mencionadas aqui servem 100% para quem mora no Brasil, precisando apenas de algumas
+Apesar do foco, as técnicas e práticas mencionadas aqui **servem 100% para quem mora no Brasil** 🇧🇷, precisando apenas de algumas
 pequenas adaptações, mas **o conceito é universal**.
 
 É possível conseguir economizar muito com essas técnicas, muitas vezes conseguindo **emitir passagens gratuitamente** apenas com suas milhas ou
@@ -13,7 +15,9 @@ quando se utiliza as ferramentas e oportunidades certas.
 
 ## A Estratégia
 
-A estratégica descrita aqui é composta por apenas 3 grandes tópicos:
+A estratégica descrita aqui tem a intenção de servir como uma base de conhecimento, dicas e técnica, para que você consiga acumular milhas e emitir passagens pagando bem menos do que você esta acustumado a pagar. 
+
+A estratégia é composta por apenas 3 grandes tópicos:
 
 1. **[Acúmulo de Milhas](acumulo.md)**
 2. **[Compra e Transferência Bonificada de Milhas](compra-transfer.md)**
