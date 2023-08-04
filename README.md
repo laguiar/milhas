@@ -122,7 +122,7 @@ técnicas de acúmulo, cias aéreas, etc.
 
 Confira também os seguintes tópicos:
 
-- [Alianças Aéreas e Grupos Hoteleiros](cias-arereas.md)
+- [Alianças Aéreas e Grupos Hoteleiros](cias-aereas.md)
 - [Cartões de Crédito e Bonificações](cartoes.md)
 
 Lembrando mais uma vez, que embora o conceito seja universal, parte do conteúdo aqui é direcionado à quem mora fora do Brasil, e em alguns casos, 
