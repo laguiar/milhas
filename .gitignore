@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 .idea/
+.vscode/
+.DS_Store
