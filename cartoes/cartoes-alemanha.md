@@ -1,6 +1,6 @@
 ## Cartões de Crédito na Alemanha 🇩🇪
 
-<img alt="Tabela de notas dos cartões de crédito" src="../images/credit-card-ratings.jpg"/>
+<img alt="Tabela de notas dos cartões de crédito" src="../images/credit-card-ratings.png"/>
 
 A Alemanha é conhecida mundialmente por ser um dos raros países desenvolvidos que ainda utiliza dinheiro em espécie para a maioria esmagadora dos pagamentos diários.
 Como você deve imaginar, a utilização de cartões de crédito não é muito comum, embora se tenha bastante opções, mas raramente se tem muitos benefícios como em outros países.
